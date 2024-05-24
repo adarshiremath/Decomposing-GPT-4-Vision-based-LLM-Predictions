@@ -1,4 +1,4 @@
-# Decomposing Vision-based LLM Predictions for Auto-Evaluation with GPT-4
+# Addressing Radiologist Burnout with Vision-Language LLMs for CT Scan Evaluation
 
 This repository contains the code for decomposing vision-based LLM (Language and Vision) predictions using GPT-4. This is the partial code implementation of the "Paper Decomposing Vision-based LLM Predictions for Auto-Evaluation with GPT-4" by Zhu et al.
 
